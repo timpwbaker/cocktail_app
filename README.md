@@ -8,6 +8,6 @@ First:
 * Run server
     * rails s
 * Open file
-    ** home.html
+    * home.html
 * Add input to search for cocktails.
 * Refresh the page to check the searched cocktails.
